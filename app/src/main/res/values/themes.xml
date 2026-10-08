@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.LeatherPunch" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#0B1426</item>
+        <item name="android:statusBarColor">#0B1426</item>
+        <item name="android:navigationBarColor">#0B1426</item>
+    </style>
+</resources>
